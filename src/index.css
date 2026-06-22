@@ -412,7 +412,7 @@ body {
 
         span {
           @apply text-primary mx-0.5;
-        }
+        } 
       }
     }
 
